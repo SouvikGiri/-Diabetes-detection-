@@ -1,2 +1,2 @@
-# -Diabetes-detection-
- Diabetes detection using ML
+# Diabetes-Detection
+ Diabetes detection using ML/AI
